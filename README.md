@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="/logo.png" style="width:200px;" />
+<img src="http://qiniu.keepheartbeat.top/liuren.png" style="width:200px;" />
 </p>
 
 <h1 align="center">divination-liuren</h1>
@@ -22,8 +22,8 @@
 
 ```js
 <script>
-  let { sum } = vivaceTool;
-  alert(sum(1, 2))
+    const {localTimeZone} = TrueSolarTime
+    console.log(localTimeZone)
 </script>
 ```
 
