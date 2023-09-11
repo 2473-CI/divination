@@ -42,17 +42,9 @@ module.exports = {
           collapsible: true,
           items: [
             { text: "真太阳时", link: '/utils/TrueSolarTime' },
+            { text: "阴历工具", link: '/utils/LunarTime' },
            ]
         },
-
-        {
-          text: '阴历日期',
-          items: [
-            { text: "say", link: '/utils/say' },
-          ]
-        },
-
-
       ]
     },
   },

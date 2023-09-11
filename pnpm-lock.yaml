@@ -5,9 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  luxon:
-    specifier: ^3.4.3
-    version: 3.4.3
+  lunar-javascript:
+    specifier: ^1.6.4
+    version: 1.6.4
   moment-timezone:
     specifier: ^0.5.43
     version: 0.5.43
@@ -6362,9 +6362,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /luxon@3.4.3:
-    resolution: {integrity: sha512-tFWBiv3h7z+T/tDaoxA8rqTxy1CHV6gHS//QdaH4pulbq/JuBSGgQspQQqcgnwdAx6pNI7cmvz5Sv/addzHmUg==}
-    engines: {node: '>=12'}
+  /lunar-javascript@1.6.4:
+    resolution: {integrity: sha512-/HvLaWNqDtkNu0gb5gsTA7tWIm5IGvChPUsM6qDQRf7gZj7lfIxIlvnkb9MJi79xqiCe//6ve6341Nc1brCNXA==}
     dev: false
 
   /magic-string@0.25.9:
