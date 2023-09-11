@@ -1,0 +1,3326 @@
+[
+  {
+    "en": "Africa/Abidjan",
+    "zh": "非洲/阿比让",
+    "continent": "非洲",
+    "area": "阿比让"
+  },
+  {
+    "en": "Africa/Accra",
+    "zh": "非洲/阿克拉",
+    "continent": "非洲",
+    "area": "阿克拉"
+  },
+  {
+    "en": "Africa/Addis_Ababa",
+    "zh": "非洲/亚的斯亚贝巴",
+    "continent": "非洲",
+    "area": "亚的斯亚贝巴"
+  },
+  {
+    "en": "Africa/Algiers",
+    "zh": "非洲/阿尔及尔",
+    "continent": "非洲",
+    "area": "阿尔及尔"
+  },
+  {
+    "en": "Africa/Asmara",
+    "zh": "非洲/阿斯马拉",
+    "continent": "非洲",
+    "area": "阿斯马拉"
+  },
+  {
+    "en": "Africa/Asmera",
+    "zh": "非洲/阿斯马拉",
+    "continent": "非洲",
+    "area": "阿斯马拉"
+  },
+  {
+    "en": "Africa/Bamako",
+    "zh": "非洲/巴马科",
+    "continent": "非洲",
+    "area": "巴马科"
+  },
+  {
+    "en": "Africa/Bangui",
+    "zh": "非洲/班吉",
+    "continent": "非洲",
+    "area": "班吉"
+  },
+  {
+    "en": "Africa/Banjul",
+    "zh": "非洲/班珠尔",
+    "continent": "非洲",
+    "area": "班珠尔"
+  },
+  {
+    "en": "Africa/Bissau",
+    "zh": "非洲/比绍",
+    "continent": "非洲",
+    "area": "比绍"
+  },
+  {
+    "en": "Africa/Blantyre",
+    "zh": "非洲/布兰太尔",
+    "continent": "非洲",
+    "area": "布兰太尔"
+  },
+  {
+    "en": "Africa/Brazzaville",
+    "zh": "非洲/布拉柴维尔",
+    "continent": "非洲",
+    "area": "布拉柴维尔"
+  },
+  {
+    "en": "Africa/Bujumbura",
+    "zh": "非洲/布琼布拉",
+    "continent": "非洲",
+    "area": "布琼布拉"
+  },
+  {
+    "en": "Africa/Cairo",
+    "zh": "非洲/开罗",
+    "continent": "非洲",
+    "area": "开罗"
+  },
+  {
+    "en": "Africa/Casablanca",
+    "zh": "非洲/卡萨布兰卡",
+    "continent": "非洲",
+    "area": "卡萨布兰卡"
+  },
+  {
+    "en": "Africa/Ceuta",
+    "zh": "非洲/休达",
+    "continent": "非洲",
+    "area": "休达"
+  },
+  {
+    "en": "Africa/Conakry",
+    "zh": "非洲/科纳克里",
+    "continent": "非洲",
+    "area": "科纳克里"
+  },
+  {
+    "en": "Africa/Dakar",
+    "zh": "非洲/达喀尔",
+    "continent": "非洲",
+    "area": "达喀尔"
+  },
+  {
+    "en": "Africa/Dar_es_Salaam",
+    "zh": "非洲/达累斯萨拉姆",
+    "continent": "非洲",
+    "area": "达累斯萨拉姆"
+  },
+  {
+    "en": "Africa/Djibouti",
+    "zh": "非洲/吉布提",
+    "continent": "非洲",
+    "area": "吉布提"
+  },
+  {
+    "en": "Africa/Douala",
+    "zh": "非洲/杜阿拉",
+    "continent": "非洲",
+    "area": "杜阿拉"
+  },
+  {
+    "en": "Africa/El_Aaiun",
+    "zh": "非洲/西撒哈拉",
+    "continent": "非洲",
+    "area": "西撒哈拉"
+  },
+  {
+    "en": "Africa/Freetown",
+    "zh": "非洲/弗里敦",
+    "continent": "非洲",
+    "area": "弗里敦"
+  },
+  {
+    "en": "Africa/Gaborone",
+    "zh": "非洲/哈博罗内",
+    "continent": "非洲",
+    "area": "哈博罗内"
+  },
+  {
+    "en": "Africa/Harare",
+    "zh": "非洲/哈拉雷",
+    "continent": "非洲",
+    "area": "哈拉雷"
+  },
+  {
+    "en": "Africa/Johannesburg",
+    "zh": "非洲/约翰内斯堡",
+    "continent": "非洲",
+    "area": "约翰内斯堡"
+  },
+  {
+    "en": "Africa/Juba",
+    "zh": "非洲/朱巴",
+    "continent": "非洲",
+    "area": "朱巴"
+  },
+  {
+    "en": "Africa/Kampala",
+    "zh": "非洲/坎帕拉",
+    "continent": "非洲",
+    "area": "坎帕拉"
+  },
+  {
+    "en": "Africa/Khartoum",
+    "zh": "非洲/喀土穆",
+    "continent": "非洲",
+    "area": "喀土穆"
+  },
+  {
+    "en": "Africa/Kigali",
+    "zh": "非洲/基加利",
+    "continent": "非洲",
+    "area": "基加利"
+  },
+  {
+    "en": "Africa/Kinshasa",
+    "zh": "非洲/金沙萨",
+    "continent": "非洲",
+    "area": "金沙萨"
+  },
+  {
+    "en": "Africa/Lagos",
+    "zh": "非洲/拉各斯",
+    "continent": "非洲",
+    "area": "拉各斯"
+  },
+  {
+    "en": "Africa/Libreville",
+    "zh": "非洲/利伯维尔",
+    "continent": "非洲",
+    "area": "利伯维尔"
+  },
+  {
+    "en": "Africa/Lome",
+    "zh": "非洲/洛美",
+    "continent": "非洲",
+    "area": "洛美"
+  },
+  {
+    "en": "Africa/Luanda",
+    "zh": "非洲/罗安达",
+    "continent": "非洲",
+    "area": "罗安达"
+  },
+  {
+    "en": "Africa/Lubumbashi",
+    "zh": "非洲/卢本巴希",
+    "continent": "非洲",
+    "area": "卢本巴希"
+  },
+  {
+    "en": "Africa/Lusaka",
+    "zh": "非洲/卢萨卡",
+    "continent": "非洲",
+    "area": "卢萨卡"
+  },
+  {
+    "en": "Africa/Malabo",
+    "zh": "非洲/马拉博",
+    "continent": "非洲",
+    "area": "马拉博"
+  },
+  {
+    "en": "Africa/Maputo",
+    "zh": "非洲/马普托",
+    "continent": "非洲",
+    "area": "马普托"
+  },
+  {
+    "en": "Africa/Maseru",
+    "zh": "非洲/马塞卢",
+    "continent": "非洲",
+    "area": "马塞卢"
+  },
+  {
+    "en": "Africa/Mbabane",
+    "zh": "非洲/姆巴巴内",
+    "continent": "非洲",
+    "area": "姆巴巴内"
+  },
+  {
+    "en": "Africa/Mogadishu",
+    "zh": "非洲/摩加迪沙",
+    "continent": "非洲",
+    "area": "摩加迪沙"
+  },
+  {
+    "en": "Africa/Monrovia",
+    "zh": "非洲/蒙罗维亚",
+    "continent": "非洲",
+    "area": "蒙罗维亚"
+  },
+  {
+    "en": "Africa/Nairobi",
+    "zh": "非洲/内罗毕",
+    "continent": "非洲",
+    "area": "内罗毕"
+  },
+  {
+    "en": "Africa/Ndjamena",
+    "zh": "非洲/恩贾梅纳",
+    "continent": "非洲",
+    "area": "恩贾梅纳"
+  },
+  {
+    "en": "Africa/Niamey",
+    "zh": "非洲/尼亚美",
+    "continent": "非洲",
+    "area": "尼亚美"
+  },
+  {
+    "en": "Africa/Nouakchott",
+    "zh": "非洲/努瓦克肖特",
+    "continent": "非洲",
+    "area": "努瓦克肖特"
+  },
+  {
+    "en": "Africa/Ouagadougou",
+    "zh": "非洲/瓦加杜古",
+    "continent": "非洲",
+    "area": "瓦加杜古"
+  },
+  {
+    "en": "Africa/Porto-Novo",
+    "zh": "非洲/新波尔图",
+    "continent": "非洲",
+    "area": "新波尔图"
+  },
+  {
+    "en": "Africa/Sao_Tome",
+    "zh": "非洲/圣多美",
+    "continent": "非洲",
+    "area": "圣多美"
+  },
+  {
+    "en": "Africa/Timbuktu",
+    "zh": "非洲/廷巴克图",
+    "continent": "非洲",
+    "area": "廷巴克图"
+  },
+  {
+    "en": "Africa/Tripoli",
+    "zh": "非洲/的黎波里",
+    "continent": "非洲",
+    "area": "的黎波里"
+  },
+  {
+    "en": "Africa/Tunis",
+    "zh": "非洲/突尼斯",
+    "continent": "非洲",
+    "area": "突尼斯"
+  },
+  {
+    "en": "Africa/Windhoek",
+    "zh": "非洲/温得和克",
+    "continent": "非洲",
+    "area": "温得和克"
+  },
+  {
+    "en": "America/Adak",
+    "zh": "美洲/美国阿达克",
+    "continent": "美洲",
+    "area": "美国阿达克"
+  },
+  {
+    "en": "America/Anchorage",
+    "zh": "美洲/美国安克雷奇",
+    "continent": "美洲",
+    "area": "美国安克雷奇"
+  },
+  {
+    "en": "America/Anguilla",
+    "zh": "美洲/安圭拉",
+    "continent": "美洲",
+    "area": "安圭拉"
+  },
+  {
+    "en": "America/Antigua",
+    "zh": "美洲/安提瓜",
+    "continent": "美洲",
+    "area": "安提瓜"
+  },
+  {
+    "en": "America/Araguaina",
+    "zh": "美洲/乌拉圭",
+    "continent": "美洲",
+    "area": "乌拉圭"
+  },
+  {
+    "en": "America/Argentina/Buenos_Aires",
+    "zh": "美洲/美国|阿根廷|布宜诺斯艾利斯",
+    "continent": "美洲",
+    "area": "美国|阿根廷|布宜诺斯艾利斯"
+  },
+  {
+    "en": "America/Argentina/Catamarca",
+    "zh": "美洲/美国|阿根廷|卡塔马卡",
+    "continent": "美洲",
+    "area": "美国/阿根廷/卡塔马卡"
+  },
+  {
+    "en": "America/Argentina/ComodRivadavia",
+    "zh": "美洲/美国/阿根廷/ComodRivadavia",
+    "continent": "美洲",
+    "area": "美国/阿根廷/ComodRivadavia"
+  },
+  {
+    "en": "America/Argentina/Cordoba",
+    "zh": "美洲/美国|阿根廷/科尔多瓦",
+    "continent": "美洲",
+    "area": "美国|阿根廷/科尔多瓦"
+  },
+  {
+    "en": "America/Argentina/Jujuy",
+    "zh": "美洲/美国|阿根廷/Jujuy",
+    "continent": "美洲",
+    "area": "美国|阿根廷/Jujuy"
+  },
+  {
+    "en": "America/Argentina/La_Rioja",
+    "zh": "美洲/阿根廷/La_Rioja",
+    "continent": "美洲",
+    "area": "阿根廷/La_Rioja"
+  },
+  {
+    "en": "America/Argentina/Mendoza",
+    "zh": "美洲/美国阿根廷门多萨",
+    "continent": "美洲",
+    "area": "美国阿根廷门多萨"
+  },
+  {
+    "en": "America/Argentina/Rio_Gallegos",
+    "zh": "美洲/阿根廷/里奥格拉戈斯",
+    "continent": "美洲",
+    "area": "阿根廷/里奥格拉戈斯"
+  },
+  {
+    "en": "America/Argentina/Salta",
+    "zh": "美洲/阿根廷/萨尔塔",
+    "continent": "美洲",
+    "area": "阿根廷/萨尔塔"
+  },
+  {
+    "en": "America/Argentina/San_Juan",
+    "zh": "美洲/阿根廷/圣胡安",
+    "continent": "美洲",
+    "area": "阿根廷/圣胡安"
+  },
+  {
+    "en": "America/Argentina/San_Luis",
+    "zh": "美洲/阿根廷/San_Luis",
+    "continent": "美洲",
+    "area": "阿根廷/San_Luis"
+  },
+  {
+    "en": "America/Argentina/Tucuman",
+    "zh": "美洲/阿根廷/图库曼",
+    "continent": "美洲",
+    "area": "阿根廷/图库曼"
+  },
+  {
+    "en": "America/Argentina/Ushuaia",
+    "zh": "美洲/阿根廷/乌斯怀亚",
+    "continent": "美洲",
+    "area": "阿根廷/乌斯怀亚"
+  },
+  {
+    "en": "America/Aruba",
+    "zh": "美洲/美国阿鲁巴",
+    "continent": "美洲",
+    "area": "美国阿鲁巴"
+  },
+  {
+    "en": "America/Asuncion",
+    "zh": "美洲/亚松森",
+    "continent": "美洲",
+    "area": "亚松森"
+  },
+  {
+    "en": "America/Atikokan",
+    "zh": "美洲/美国Atikokan",
+    "continent": "美洲",
+    "area": "美国Atikokan"
+  },
+  {
+    "en": "America/Atka",
+    "zh": "美洲/美国Atka",
+    "continent": "美洲",
+    "area": "美国Atka"
+  },
+  {
+    "en": "America/Bahia",
+    "zh": "美洲/巴伊亚",
+    "continent": "美洲",
+    "area": "巴伊亚"
+  },
+  {
+    "en": "America/Bahia_Banderas",
+    "zh": "美洲/美国Bahia_Banderas",
+    "continent": "美洲",
+    "area": "美国Bahia_Banderas"
+  },
+  {
+    "en": "America/Barbados",
+    "zh": "美洲/巴巴多斯",
+    "continent": "美洲",
+    "area": "巴巴多斯"
+  },
+  {
+    "en": "America/Belem",
+    "zh": "美洲/美国贝伦",
+    "continent": "美洲",
+    "area": "美国贝伦"
+  },
+  {
+    "en": "America/Belize",
+    "zh": "美洲/美国伯利兹",
+    "continent": "美洲",
+    "area": "美国伯利兹"
+  },
+  {
+    "en": "America/Blanc-Sablon",
+    "zh": "美洲/Blanc Sablon",
+    "continent": "美洲",
+    "area": "Blanc Sablon"
+  },
+  {
+    "en": "America/Boa_Vista",
+    "zh": "美洲/Boa_Vista",
+    "continent": "美洲",
+    "area": "Boa_Vista"
+  },
+  {
+    "en": "America/Bogota",
+    "zh": "美洲/波哥大",
+    "continent": "美洲",
+    "area": "波哥大"
+  },
+  {
+    "en": "America/Boise",
+    "zh": "美洲/美国博伊西",
+    "continent": "美洲",
+    "area": "美国博伊西"
+  },
+  {
+    "en": "America/Buenos_Aires",
+    "zh": "美洲/美国布宜诺斯艾利斯",
+    "continent": "美洲",
+    "area": "美国布宜诺斯艾利斯"
+  },
+  {
+    "en": "America/Cambridge_Bay",
+    "zh": "美洲/美国剑桥_Bay",
+    "continent": "美洲",
+    "area": "美国剑桥_Bay"
+  },
+  {
+    "en": "America/Campo_Grande",
+    "zh": "美洲/美国Campo_Grande",
+    "continent": "美洲",
+    "area": "美国Campo_Grande"
+  },
+  {
+    "en": "America/Cancun",
+    "zh": "美洲/美国坎昆",
+    "continent": "美洲",
+    "area": "美国坎昆"
+  },
+  {
+    "en": "America/Caracas",
+    "zh": "美洲/加拉加斯",
+    "continent": "美洲",
+    "area": "加拉加斯"
+  },
+  {
+    "en": "America/Catamarca",
+    "zh": "美洲/卡塔马卡",
+    "continent": "美洲",
+    "area": "卡塔马卡"
+  },
+  {
+    "en": "America/Cayenne",
+    "zh": "美洲/美国Cayenne",
+    "continent": "美洲",
+    "area": "美国Cayenne"
+  },
+  {
+    "en": "America/Cayman",
+    "zh": "美洲/开曼群岛",
+    "continent": "美洲",
+    "area": "开曼群岛"
+  },
+  {
+    "en": "America/Chicago",
+    "zh": "美洲/美国芝加哥",
+    "continent": "美洲",
+    "area": "美国芝加哥"
+  },
+  {
+    "en": "America/Chihuahua",
+    "zh": "美洲/美国吉娃娃",
+    "continent": "美洲",
+    "area": "美国吉娃娃"
+  },
+  {
+    "en": "America/Ciudad_Juarez",
+    "zh": "美洲/美国华雷斯城",
+    "continent": "美洲",
+    "area": "美国华雷斯城"
+  },
+  {
+    "en": "America/Coral_Harbour",
+    "zh": "美洲/珊瑚港",
+    "continent": "美洲",
+    "area": "珊瑚港"
+  },
+  {
+    "en": "America/Cordoba",
+    "zh": "美洲/科尔多瓦",
+    "continent": "美洲",
+    "area": "科尔多瓦"
+  },
+  {
+    "en": "America/Costa_Rica",
+    "zh": "美洲/哥斯达黎加",
+    "continent": "美洲",
+    "area": "哥斯达黎加"
+  },
+  {
+    "en": "America/Creston",
+    "zh": "美洲/美国克雷斯顿",
+    "continent": "美洲",
+    "area": "美国克雷斯顿"
+  },
+  {
+    "en": "America/Cuiaba",
+    "zh": "美洲/Cuiaba",
+    "continent": "美洲",
+    "area": "Cuiaba"
+  },
+  {
+    "en": "America/Curacao",
+    "zh": "美洲/库拉索",
+    "continent": "美洲",
+    "area": "库拉索"
+  },
+  {
+    "en": "America/Danmarkshavn",
+    "zh": "美洲/美国丹麦",
+    "continent": "美洲",
+    "area": "美国丹麦"
+  },
+  {
+    "en": "America/Dawson",
+    "zh": "美洲/美国道森",
+    "continent": "美洲",
+    "area": "美国道森"
+  },
+  {
+    "en": "America/Dawson_Creek",
+    "zh": "美洲/美国Dawson_Creek",
+    "continent": "美洲",
+    "area": "美国Dawson_Creek"
+  },
+  {
+    "en": "America/Denver",
+    "zh": "美洲/美国丹佛",
+    "continent": "美洲",
+    "area": "美国丹佛"
+  },
+  {
+    "en": "America/Detroit",
+    "zh": "美洲/美国底特律",
+    "continent": "美洲",
+    "area": "美国底特律"
+  },
+  {
+    "en": "America/Dominica",
+    "zh": "美洲/美国多米尼克",
+    "continent": "美洲",
+    "area": "美国多米尼克"
+  },
+  {
+    "en": "America/Edmonton",
+    "zh": "美洲/美国埃德蒙顿",
+    "continent": "美洲",
+    "area": "美国埃德蒙顿"
+  },
+  {
+    "en": "America/Eirunepe",
+    "zh": "美洲/美国Eirunepe",
+    "continent": "美洲",
+    "area": "美国Eirunepe"
+  },
+  {
+    "en": "America/El_Salvador",
+    "zh": "美洲/萨尔瓦多",
+    "continent": "美洲",
+    "area": "萨尔瓦多"
+  },
+  {
+    "en": "America/Ensenada",
+    "zh": "美洲/美国Ensenada",
+    "continent": "美洲",
+    "area": "美国Ensenada"
+  },
+  {
+    "en": "America/Fort_Nelson",
+    "zh": "美洲/美国Fort_Nelson",
+    "continent": "美洲",
+    "area": "美国Fort_Nelson"
+  },
+  {
+    "en": "America/Fort_Wayne",
+    "zh": "美洲/美国Fort_Wayne",
+    "continent": "美洲",
+    "area": "美国Fort_Wayne"
+  },
+  {
+    "en": "America/Fortaleza",
+    "zh": "美洲/美国福塔莱萨",
+    "continent": "美洲",
+    "area": "美国福塔莱萨"
+  },
+  {
+    "en": "America/Glace_Bay",
+    "zh": "美洲/美国Glase_Bay",
+    "continent": "美洲",
+    "area": "美国Glase_Bay"
+  },
+  {
+    "en": "America/Godthab",
+    "zh": "美洲/美国戈德萨",
+    "continent": "美洲",
+    "area": "美国戈德萨"
+  },
+  {
+    "en": "America/Goose_Bay",
+    "zh": "美洲/美国谷歌（_Bay）",
+    "continent": "美洲",
+    "area": "美国谷歌（_Bay）"
+  },
+  {
+    "en": "America/Grand_Turk",
+    "zh": "美洲/美国Grand_Turk",
+    "continent": "美洲",
+    "area": "美国Grand_Turk"
+  },
+  {
+    "en": "America/Grenada",
+    "zh": "美洲/美国格林纳达",
+    "continent": "美洲",
+    "area": "美国格林纳达"
+  },
+  {
+    "en": "America/Guadeloupe",
+    "zh": "美洲/瓜德罗普",
+    "continent": "美洲",
+    "area": "瓜德罗普"
+  },
+  {
+    "en": "America/Guatemala",
+    "zh": "美洲/美国危地马拉",
+    "continent": "美洲",
+    "area": "美国危地马拉"
+  },
+  {
+    "en": "America/Guayaquil",
+    "zh": "美洲/瓜亚基尔",
+    "continent": "美洲",
+    "area": "瓜亚基尔"
+  },
+  {
+    "en": "America/Guyana",
+    "zh": "美洲/圭亚那",
+    "continent": "美洲",
+    "area": "圭亚那"
+  },
+  {
+    "en": "America/Halifax",
+    "zh": "美洲/美国哈利法克斯",
+    "continent": "美洲",
+    "area": "美国哈利法克斯"
+  },
+  {
+    "en": "America/Havana",
+    "zh": "美洲/哈瓦那",
+    "continent": "美洲",
+    "area": "哈瓦那"
+  },
+  {
+    "en": "America/Hermosillo",
+    "zh": "美洲/Hermosillo",
+    "continent": "美洲",
+    "area": "Hermosillo"
+  },
+  {
+    "en": "America/Indiana/Indianapolis",
+    "zh": "美洲/美国印第安纳州印第安纳波利斯",
+    "continent": "美洲",
+    "area": "美国印第安纳州印第安纳波利斯"
+  },
+  {
+    "en": "America/Indiana/Knox",
+    "zh": "美洲/美国印第安纳州诺克斯",
+    "continent": "美洲",
+    "area": "美国印第安纳州诺克斯"
+  },
+  {
+    "en": "America/Indiana/Marengo",
+    "zh": "美洲/美国印第安纳州马伦戈",
+    "continent": "美洲",
+    "area": "美国印第安纳州马伦戈"
+  },
+  {
+    "en": "America/Indiana/Petersburg",
+    "zh": "美洲/美国印第安纳州彼得堡",
+    "continent": "美洲",
+    "area": "美国印第安纳州彼得堡"
+  },
+  {
+    "en": "America/Indiana/Tell_City",
+    "zh": "美洲/美国印第安纳州Tell_City",
+    "continent": "美洲",
+    "area": "美国印第安纳州Tell_City"
+  },
+  {
+    "en": "America/Indiana/Vevay",
+    "zh": "美洲/美国印第安纳州弗吉尼亚州",
+    "continent": "美洲",
+    "area": "美国印第安纳州弗吉尼亚州"
+  },
+  {
+    "en": "America/Indiana/Vincennes",
+    "zh": "美洲/美国印第安纳州文森斯",
+    "continent": "美洲",
+    "area": "美国印第安纳州文森斯"
+  },
+  {
+    "en": "America/Indiana/Winamac",
+    "zh": "美洲/美国印第安纳州威纳马克",
+    "continent": "美洲",
+    "area": "美国印第安纳州威纳马克"
+  },
+  {
+    "en": "America/Indianapolis",
+    "zh": "美洲/美国印第安纳波利斯",
+    "continent": "美洲",
+    "area": "美国印第安纳波利斯"
+  },
+  {
+    "en": "America/Inuvik",
+    "zh": "美洲/因纽维克",
+    "continent": "美洲",
+    "area": "因纽维克"
+  },
+  {
+    "en": "America/Iqaluit",
+    "zh": "美洲/美国Iqaluit",
+    "continent": "美洲",
+    "area": "美国Iqaluit"
+  },
+  {
+    "en": "America/Jamaica",
+    "zh": "美洲/美国牙买加",
+    "continent": "美洲",
+    "area": "美国牙买加"
+  },
+  {
+    "en": "America/Jujuy",
+    "zh": "美洲/美国Jujuy",
+    "continent": "美洲",
+    "area": "美国Jujuy"
+  },
+  {
+    "en": "America/Juneau",
+    "zh": "美洲/美国朱诺",
+    "continent": "美洲",
+    "area": "美国朱诺"
+  },
+  {
+    "en": "America/Kentucky/Louisville",
+    "zh": "美洲/美国肯塔基州路易斯维尔",
+    "continent": "美洲",
+    "area": "美国肯塔基州路易斯维尔"
+  },
+  {
+    "en": "America/Kentucky/Monticello",
+    "zh": "美洲/美国肯塔基州蒙蒂塞洛",
+    "continent": "美洲",
+    "area": "美国肯塔基州蒙蒂塞洛"
+  },
+  {
+    "en": "America/Knox_IN",
+    "zh": "美洲/美国Knox_IN",
+    "continent": "美洲",
+    "area": "美国Knox_IN"
+  },
+  {
+    "en": "America/Kralendijk",
+    "zh": "美洲/美国克拉伦迪克",
+    "continent": "美洲",
+    "area": "美国克拉伦迪克"
+  },
+  {
+    "en": "America/La_Paz",
+    "zh": "美洲/La_Paz",
+    "continent": "美洲",
+    "area": "La_Paz"
+  },
+  {
+    "en": "America/Lima",
+    "zh": "美洲/利马",
+    "continent": "美洲",
+    "area": "利马"
+  },
+  {
+    "en": "America/Los_Angeles",
+    "zh": "美洲/美国洛杉矶",
+    "continent": "美洲",
+    "area": "美国洛杉矶"
+  },
+  {
+    "en": "America/Louisville",
+    "zh": "美洲/美国路易斯维尔",
+    "continent": "美洲",
+    "area": "美国路易斯维尔"
+  },
+  {
+    "en": "America/Lower_Princes",
+    "zh": "美洲/美国Lower_Pinces",
+    "continent": "美洲",
+    "area": "美国Lower_Pinces"
+  },
+  {
+    "en": "America/Maceio",
+    "zh": "美洲/美国Maceio",
+    "continent": "美洲",
+    "area": "美国Maceio"
+  },
+  {
+    "en": "America/Managua",
+    "zh": "美洲/马那瓜",
+    "continent": "美洲",
+    "area": "马那瓜"
+  },
+  {
+    "en": "America/Manaus",
+    "zh": "美洲/马瑙斯",
+    "continent": "美洲",
+    "area": "马瑙斯"
+  },
+  {
+    "en": "America/Marigot",
+    "zh": "美洲/美国Marigot",
+    "continent": "美洲",
+    "area": "美国Marigot"
+  },
+  {
+    "en": "America/Martinique",
+    "zh": "美洲/马提尼克",
+    "continent": "美洲",
+    "area": "马提尼克"
+  },
+  {
+    "en": "America/Matamoros",
+    "zh": "美洲/马塔莫罗斯",
+    "continent": "美洲",
+    "area": "马塔莫罗斯"
+  },
+  {
+    "en": "America/Mazatlan",
+    "zh": "美洲/美国马扎特兰",
+    "continent": "美洲",
+    "area": "美国马扎特兰"
+  },
+  {
+    "en": "America/Mendoza",
+    "zh": "美洲/美国门多萨",
+    "continent": "美洲",
+    "area": "美国门多萨"
+  },
+  {
+    "en": "America/Menominee",
+    "zh": "美洲/美国Menominee",
+    "continent": "美洲",
+    "area": "美国Menominee"
+  },
+  {
+    "en": "America/Merida",
+    "zh": "美洲/美利达",
+    "continent": "美洲",
+    "area": "美利达"
+  },
+  {
+    "en": "America/Metlakatla",
+    "zh": "美洲/美国Metlakatla",
+    "continent": "美洲",
+    "area": "美国Metlakatla"
+  },
+  {
+    "en": "America/Mexico_City",
+    "zh": "美洲/美国墨西哥城市",
+    "continent": "美洲",
+    "area": "美国墨西哥城市"
+  },
+  {
+    "en": "America/Miquelon",
+    "zh": "美洲/美国密克隆",
+    "continent": "美洲",
+    "area": "美国密克隆"
+  },
+  {
+    "en": "America/Moncton",
+    "zh": "美洲/美国蒙克顿",
+    "continent": "美洲",
+    "area": "美国蒙克顿"
+  },
+  {
+    "en": "America/Monterrey",
+    "zh": "美洲/蒙特雷",
+    "continent": "美洲",
+    "area": "蒙特雷"
+  },
+  {
+    "en": "America/Montevideo",
+    "zh": "美洲/美国蒙得维的亚",
+    "continent": "美洲",
+    "area": "美国蒙得维的亚"
+  },
+  {
+    "en": "America/Montreal",
+    "zh": "美洲/美国蒙特利尔",
+    "continent": "美洲",
+    "area": "美国蒙特利尔"
+  },
+  {
+    "en": "America/Montserrat",
+    "zh": "美洲/蒙特塞拉特",
+    "continent": "美洲",
+    "area": "蒙特塞拉特"
+  },
+  {
+    "en": "America/Nassau",
+    "zh": "美洲/美国拿骚",
+    "continent": "美洲",
+    "area": "美国拿骚"
+  },
+  {
+    "en": "America/New_York",
+    "zh": "美洲/美国纽约",
+    "continent": "美洲",
+    "area": "美国纽约"
+  },
+  {
+    "en": "America/Nipigon",
+    "zh": "美洲/美国尼皮贡",
+    "continent": "美洲",
+    "area": "美国尼皮贡"
+  },
+  {
+    "en": "America/Nome",
+    "zh": "美洲/美国诺姆",
+    "continent": "美洲",
+    "area": "美国诺姆"
+  },
+  {
+    "en": "America/Noronha",
+    "zh": "美洲/美国诺罗尼亚",
+    "continent": "美洲",
+    "area": "美国诺罗尼亚"
+  },
+  {
+    "en": "America/North_Dakota/Beulah",
+    "zh": "美洲/美国北达科塔贝拉",
+    "continent": "美洲",
+    "area": "美国北达科塔贝拉"
+  },
+  {
+    "en": "America/North_Dakota/Center",
+    "zh": "美洲/美国北部_达科塔中心",
+    "continent": "美洲",
+    "area": "美国北部_达科塔中心"
+  },
+  {
+    "en": "America/North_Dakota/New_Salem",
+    "zh": "美洲/美国北达科塔新萨勒姆",
+    "continent": "美洲",
+    "area": "美国北达科塔新萨勒姆"
+  },
+  {
+    "en": "America/Nuuk",
+    "zh": "美洲/美国努克",
+    "continent": "美洲",
+    "area": "美国努克"
+  },
+  {
+    "en": "America/Ojinaga",
+    "zh": "美洲/Ojinaga",
+    "continent": "美洲",
+    "area": "Ojinaga"
+  },
+  {
+    "en": "America/Panama",
+    "zh": "美洲/巴拿马",
+    "continent": "美洲",
+    "area": "巴拿马"
+  },
+  {
+    "en": "America/Pangnirtung",
+    "zh": "美洲/Pangnirtung",
+    "continent": "美洲",
+    "area": "Pangnirtung"
+  },
+  {
+    "en": "America/Paramaribo",
+    "zh": "美洲/帕拉马里博",
+    "continent": "美洲",
+    "area": "帕拉马里博"
+  },
+  {
+    "en": "America/Phoenix",
+    "zh": "美洲/美国菲尼克斯",
+    "continent": "美洲",
+    "area": "美国菲尼克斯"
+  },
+  {
+    "en": "America/Port-au-Prince",
+    "zh": "美洲/美国太子港",
+    "continent": "美洲",
+    "area": "美国太子港"
+  },
+  {
+    "en": "America/Port_of_Spain",
+    "zh": "美洲/西班牙港口",
+    "continent": "美洲",
+    "area": "西班牙港口"
+  },
+  {
+    "en": "America/Porto_Acre",
+    "zh": "美洲/美国Porto_Acre",
+    "continent": "美洲",
+    "area": "美国Porto_Acre"
+  },
+  {
+    "en": "America/Porto_Velho",
+    "zh": "美洲/美国Porto_Velho",
+    "continent": "美洲",
+    "area": "美国Porto_Velho"
+  },
+  {
+    "en": "America/Puerto_Rico",
+    "zh": "美洲/波多黎各",
+    "continent": "美洲",
+    "area": "波多黎各"
+  },
+  {
+    "en": "America/Punta_Arenas",
+    "zh": "美洲/蓬塔阿雷纳斯",
+    "continent": "美洲",
+    "area": "蓬塔阿雷纳斯"
+  },
+  {
+    "en": "America/Rainy_River",
+    "zh": "美洲/Rainy_River",
+    "continent": "美洲",
+    "area": "Rainy_River"
+  },
+  {
+    "en": "America/Rankin_Inlet",
+    "zh": "美洲/美国排名",
+    "continent": "美洲",
+    "area": "美国排名"
+  },
+  {
+    "en": "America/Recife",
+    "zh": "美洲/美国累西腓",
+    "continent": "美洲",
+    "area": "美国累西腓"
+  },
+  {
+    "en": "America/Regina",
+    "zh": "美洲/美国里贾纳",
+    "continent": "美洲",
+    "area": "美国里贾纳"
+  },
+  {
+    "en": "America/Resolute",
+    "zh": "美洲/美国Resolute",
+    "continent": "美洲",
+    "area": "美国Resolute"
+  },
+  {
+    "en": "America/Rio_Branco",
+    "zh": "美洲/里奥·布兰科",
+    "continent": "美洲",
+    "area": "里奥·布兰科"
+  },
+  {
+    "en": "America/Rosario",
+    "zh": "美洲/美国罗萨里奥",
+    "continent": "美洲",
+    "area": "美国罗萨里奥"
+  },
+  {
+    "en": "America/Santa_Isabel",
+    "zh": "美洲/圣诞老人",
+    "continent": "美洲",
+    "area": "圣诞老人"
+  },
+  {
+    "en": "America/Santarem",
+    "zh": "美洲/美国Santarem",
+    "continent": "美洲",
+    "area": "美国Santarem"
+  },
+  {
+    "en": "America/Santiago",
+    "zh": "美洲/美国圣地亚哥",
+    "continent": "美洲",
+    "area": "美国圣地亚哥"
+  },
+  {
+    "en": "America/Santo_Domingo",
+    "zh": "美洲/美国圣多明各",
+    "continent": "美洲",
+    "area": "美国圣多明各"
+  },
+  {
+    "en": "America/Sao_Paulo",
+    "zh": "美洲/美国圣保罗",
+    "continent": "美洲",
+    "area": "美国圣保罗"
+  },
+  {
+    "en": "America/Scoresbysund",
+    "zh": "美洲/美国Scoresbyund",
+    "continent": "美洲",
+    "area": "美国Scoresbyund"
+  },
+  {
+    "en": "America/Shiprock",
+    "zh": "美洲/美国Shiprock",
+    "continent": "美洲",
+    "area": "美国Shiprock"
+  },
+  {
+    "en": "America/Sitka",
+    "zh": "美洲/美国锡特卡",
+    "continent": "美洲",
+    "area": "美国锡特卡"
+  },
+  {
+    "en": "America/St_Barthelemy",
+    "zh": "美洲/美国St_Barthelemy",
+    "continent": "美洲",
+    "area": "美国St_Barthelemy"
+  },
+  {
+    "en": "America/St_Johns",
+    "zh": "美洲/美国St_Johns",
+    "continent": "美洲",
+    "area": "美国St_Johns"
+  },
+  {
+    "en": "America/St_Kitts",
+    "zh": "美洲/美国St_Kitts",
+    "continent": "美洲",
+    "area": "美国St_Kitts"
+  },
+  {
+    "en": "America/St_Lucia",
+    "zh": "美洲/美国圣卢西亚",
+    "continent": "美洲",
+    "area": "美国圣卢西亚"
+  },
+  {
+    "en": "America/St_Thomas",
+    "zh": "美洲/美国St_Tomas",
+    "continent": "美洲",
+    "area": "美国St_Tomas"
+  },
+  {
+    "en": "America/St_Vincent",
+    "zh": "美洲/美国St_Venct",
+    "continent": "美洲",
+    "area": "美国St_Venct"
+  },
+  {
+    "en": "America/Swift_Current",
+    "zh": "美洲/美国Swift_Current",
+    "continent": "美洲",
+    "area": "美国Swift_Current"
+  },
+  {
+    "en": "America/Tegucigalpa",
+    "zh": "美洲/特古西加尔巴",
+    "continent": "美洲",
+    "area": "特古西加尔巴"
+  },
+  {
+    "en": "America/Thule",
+    "zh": "美洲/美国图勒",
+    "continent": "美洲",
+    "area": "美国图勒"
+  },
+  {
+    "en": "America/Thunder_Bay",
+    "zh": "美洲/美国Thunder_Bay",
+    "continent": "美洲",
+    "area": "美国Thunder_Bay"
+  },
+  {
+    "en": "America/Tijuana",
+    "zh": "美洲/美国蒂华纳",
+    "continent": "美洲",
+    "area": "美国蒂华纳"
+  },
+  {
+    "en": "America/Toronto",
+    "zh": "美洲/美国多伦多",
+    "continent": "美洲",
+    "area": "美国多伦多"
+  },
+  {
+    "en": "America/Tortola",
+    "zh": "美洲/乌龟",
+    "continent": "美洲",
+    "area": "乌龟"
+  },
+  {
+    "en": "America/Vancouver",
+    "zh": "美洲/美国温哥华",
+    "continent": "美洲",
+    "area": "美国温哥华"
+  },
+  {
+    "en": "America/Virgin",
+    "zh": "美洲/维珍",
+    "continent": "美洲",
+    "area": "维珍"
+  },
+  {
+    "en": "America/Whitehorse",
+    "zh": "美洲/美国怀特霍斯",
+    "continent": "美洲",
+    "area": "美国怀特霍斯"
+  },
+  {
+    "en": "America/Winnipeg",
+    "zh": "美洲/美国温尼伯",
+    "continent": "美洲",
+    "area": "美国温尼伯"
+  },
+  {
+    "en": "America/Yakutat",
+    "zh": "美洲/雅库塔特",
+    "continent": "美洲",
+    "area": "雅库塔特"
+  },
+  {
+    "en": "America/Yellowknife",
+    "zh": "美洲/美国Yellowknife",
+    "continent": "美洲",
+    "area": "美国Yellowknife"
+  },
+  {
+    "en": "Antarctica/Casey",
+    "zh": "南极洲/凯西",
+    "continent": "南极洲",
+    "area": "凯西"
+  },
+  {
+    "en": "Antarctica/Davis",
+    "zh": "南极洲/戴维斯",
+    "continent": "南极洲",
+    "area": "戴维斯"
+  },
+  {
+    "en": "Antarctica/DumontDUrville",
+    "zh": "南极洲/杜蒙德维尔",
+    "continent": "南极洲",
+    "area": "杜蒙德维尔"
+  },
+  {
+    "en": "Antarctica/Macquarie",
+    "zh": "南极洲/麦格理",
+    "continent": "南极洲",
+    "area": "麦格理"
+  },
+  {
+    "en": "Antarctica/Mawson",
+    "zh": "南极洲/莫森",
+    "continent": "南极洲",
+    "area": "莫森"
+  },
+  {
+    "en": "Antarctica/McMurdo",
+    "zh": "南极洲/麦克默多",
+    "continent": "南极洲",
+    "area": "麦克默多"
+  },
+  {
+    "en": "Antarctica/Palmer",
+    "zh": "南极洲/帕尔默",
+    "continent": "南极洲",
+    "area": "帕尔默"
+  },
+  {
+    "en": "Antarctica/Rothera",
+    "zh": "南极洲/罗瑟拉",
+    "continent": "南极洲",
+    "area": "罗瑟拉"
+  },
+  {
+    "en": "Antarctica/South_Pole",
+    "zh": "南极洲/南极南极",
+    "continent": "南极洲",
+    "area": "南极南极"
+  },
+  {
+    "en": "Antarctica/Syowa",
+    "zh": "南极洲/Syowa",
+    "continent": "南极洲",
+    "area": "Syowa"
+  },
+  {
+    "en": "Antarctica/Troll",
+    "zh": "南极洲/南极巨魔",
+    "continent": "南极洲",
+    "area": "南极巨魔"
+  },
+  {
+    "en": "Antarctica/Vostok",
+    "zh": "南极洲/沃斯托克",
+    "continent": "南极洲",
+    "area": "沃斯托克"
+  },
+  {
+    "en": "Arctic/Longyearbyen",
+    "zh": "北冰洋/北极朗伊尔城",
+    "continent": "北冰洋",
+    "area": "北极朗伊尔城"
+  },
+  {
+    "en": "Asia/Aden",
+    "zh": "亚洲/亚丁",
+    "continent": "亚洲",
+    "area": "亚丁"
+  },
+  {
+    "en": "Asia/Almaty",
+    "zh": "亚洲/阿拉木图",
+    "continent": "亚洲",
+    "area": "阿拉木图"
+  },
+  {
+    "en": "Asia/Amman",
+    "zh": "亚洲/安曼",
+    "continent": "亚洲",
+    "area": "安曼"
+  },
+  {
+    "en": "Asia/Anadyr",
+    "zh": "亚洲/Anadyr",
+    "continent": "亚洲",
+    "area": "Anadyr"
+  },
+  {
+    "en": "Asia/Aqtau",
+    "zh": "亚洲/阿克套",
+    "continent": "亚洲",
+    "area": "阿克套"
+  },
+  {
+    "en": "Asia/Aqtobe",
+    "zh": "亚洲/阿克托别",
+    "continent": "亚洲",
+    "area": "阿克托别"
+  },
+  {
+    "en": "Asia/Ashgabat",
+    "zh": "亚洲/阿什哈巴德",
+    "continent": "亚洲",
+    "area": "阿什哈巴德"
+  },
+  {
+    "en": "Asia/Ashkhabad",
+    "zh": "亚洲/阿什哈巴德",
+    "continent": "亚洲",
+    "area": "阿什哈巴德"
+  },
+  {
+    "en": "Asia/Atyrau",
+    "zh": "亚洲/阿特劳",
+    "continent": "亚洲",
+    "area": "阿特劳"
+  },
+  {
+    "en": "Asia/Baghdad",
+    "zh": "亚洲/巴格达",
+    "continent": "亚洲",
+    "area": "巴格达"
+  },
+  {
+    "en": "Asia/Bahrain",
+    "zh": "亚洲/巴林",
+    "continent": "亚洲",
+    "area": "巴林"
+  },
+  {
+    "en": "Asia/Baku",
+    "zh": "亚洲/巴库",
+    "continent": "亚洲",
+    "area": "巴库"
+  },
+  {
+    "en": "Asia/Bangkok",
+    "zh": "亚洲/曼谷",
+    "continent": "亚洲",
+    "area": "曼谷"
+  },
+  {
+    "en": "Asia/Barnaul",
+    "zh": "亚洲/巴瑙尔",
+    "continent": "亚洲",
+    "area": "巴瑙尔"
+  },
+  {
+    "en": "Asia/Beirut",
+    "zh": "亚洲/贝鲁特",
+    "continent": "亚洲",
+    "area": "贝鲁特"
+  },
+  {
+    "en": "Asia/Bishkek",
+    "zh": "亚洲/比什凯克",
+    "continent": "亚洲",
+    "area": "比什凯克"
+  },
+  {
+    "en": "Asia/Brunei",
+    "zh": "亚洲/文莱",
+    "continent": "亚洲",
+    "area": "文莱"
+  },
+  {
+    "en": "Asia/Calcutta",
+    "zh": "亚洲/加尔各答",
+    "continent": "亚洲",
+    "area": "加尔各答"
+  },
+  {
+    "en": "Asia/Chita",
+    "zh": "亚洲/赤塔",
+    "continent": "亚洲",
+    "area": "赤塔"
+  },
+  {
+    "en": "Asia/Choibalsan",
+    "zh": "亚洲/Choibalsan",
+    "continent": "亚洲",
+    "area": "Choibalsan"
+  },
+  {
+    "en": "Asia/Chongqing",
+    "zh": "亚洲/重庆",
+    "continent": "亚洲",
+    "area": "重庆"
+  },
+  {
+    "en": "Asia/Chungking",
+    "zh": "亚洲/重庆",
+    "continent": "亚洲",
+    "area": "重庆"
+  },
+  {
+    "en": "Asia/Colombo",
+    "zh": "亚洲/科伦坡",
+    "continent": "亚洲",
+    "area": "科伦坡"
+  },
+  {
+    "en": "Asia/Dacca",
+    "zh": "亚洲/达卡",
+    "continent": "亚洲",
+    "area": "达卡"
+  },
+  {
+    "en": "Asia/Damascus",
+    "zh": "亚洲/大马士革",
+    "continent": "亚洲",
+    "area": "大马士革"
+  },
+  {
+    "en": "Asia/Dhaka",
+    "zh": "亚洲/达卡",
+    "continent": "亚洲",
+    "area": "达卡"
+  },
+  {
+    "en": "Asia/Dili",
+    "zh": "亚洲/帝力",
+    "continent": "亚洲",
+    "area": "帝力"
+  },
+  {
+    "en": "Asia/Dubai",
+    "zh": "亚洲/迪拜",
+    "continent": "亚洲",
+    "area": "迪拜"
+  },
+  {
+    "en": "Asia/Dushanbe",
+    "zh": "亚洲/杜尚别",
+    "continent": "亚洲",
+    "area": "杜尚别"
+  },
+  {
+    "en": "Asia/Famagusta",
+    "zh": "亚洲/法马古斯塔",
+    "continent": "亚洲",
+    "area": "法马古斯塔"
+  },
+  {
+    "en": "Asia/Gaza",
+    "zh": "亚洲/加沙",
+    "continent": "亚洲",
+    "area": "加沙"
+  },
+  {
+    "en": "Asia/Harbin",
+    "zh": "亚洲/哈尔滨",
+    "continent": "亚洲",
+    "area": "哈尔滨"
+  },
+  {
+    "en": "Asia/Hebron",
+    "zh": "亚洲/希伯伦",
+    "continent": "亚洲",
+    "area": "希伯伦"
+  },
+  {
+    "en": "Asia/Ho_Chi_Minh",
+    "zh": "亚洲/Ho_Chi_Minh",
+    "continent": "亚洲",
+    "area": "Ho_Chi_Minh"
+  },
+  {
+    "en": "Asia/Hong_Kong",
+    "zh": "亚洲/香港",
+    "continent": "亚洲",
+    "area": "香港"
+  },
+  {
+    "en": "Asia/Hovd",
+    "zh": "亚洲/霍布多",
+    "continent": "亚洲",
+    "area": "霍布多"
+  },
+  {
+    "en": "Asia/Irkutsk",
+    "zh": "亚洲/伊尔库茨克",
+    "continent": "亚洲",
+    "area": "伊尔库茨克"
+  },
+  {
+    "en": "Asia/Istanbul",
+    "zh": "亚洲/伊斯坦布尔",
+    "continent": "亚洲",
+    "area": "伊斯坦布尔"
+  },
+  {
+    "en": "Asia/Jakarta",
+    "zh": "亚洲/雅加达",
+    "continent": "亚洲",
+    "area": "雅加达"
+  },
+  {
+    "en": "Asia/Jayapura",
+    "zh": "亚洲/查亚普拉",
+    "continent": "亚洲",
+    "area": "查亚普拉"
+  },
+  {
+    "en": "Asia/Jerusalem",
+    "zh": "亚洲/耶路撒冷",
+    "continent": "亚洲",
+    "area": "耶路撒冷"
+  },
+  {
+    "en": "Asia/Kabul",
+    "zh": "亚洲/喀布尔",
+    "continent": "亚洲",
+    "area": "喀布尔"
+  },
+  {
+    "en": "Asia/Kamchatka",
+    "zh": "亚洲/堪察加半岛",
+    "continent": "亚洲",
+    "area": "堪察加半岛"
+  },
+  {
+    "en": "Asia/Karachi",
+    "zh": "亚洲/卡拉奇",
+    "continent": "亚洲",
+    "area": "卡拉奇"
+  },
+  {
+    "en": "Asia/Kashgar",
+    "zh": "亚洲/喀什",
+    "continent": "亚洲",
+    "area": "喀什"
+  },
+  {
+    "en": "Asia/Kathmandu",
+    "zh": "亚洲/加德满都",
+    "continent": "亚洲",
+    "area": "加德满都"
+  },
+  {
+    "en": "Asia/Katmandu",
+    "zh": "亚洲/加德满都",
+    "continent": "亚洲",
+    "area": "加德满都"
+  },
+  {
+    "en": "Asia/Khandyga",
+    "zh": "亚洲/Khandyga",
+    "continent": "亚洲",
+    "area": "Khandyga"
+  },
+  {
+    "en": "Asia/Kolkata",
+    "zh": "亚洲/加尔各答",
+    "continent": "亚洲",
+    "area": "加尔各答"
+  },
+  {
+    "en": "Asia/Krasnoyarsk",
+    "zh": "亚洲/克拉斯诺亚尔斯克",
+    "continent": "亚洲",
+    "area": "克拉斯诺亚尔斯克"
+  },
+  {
+    "en": "Asia/Kuala_Lumpur",
+    "zh": "亚洲/吉隆坡",
+    "continent": "亚洲",
+    "area": "吉隆坡"
+  },
+  {
+    "en": "Asia/Kuching",
+    "zh": "亚洲/古晋",
+    "continent": "亚洲",
+    "area": "古晋"
+  },
+  {
+    "en": "Asia/Kuwait",
+    "zh": "亚洲/科威特",
+    "continent": "亚洲",
+    "area": "科威特"
+  },
+  {
+    "en": "Asia/Macao",
+    "zh": "亚洲/澳门",
+    "continent": "亚洲",
+    "area": "澳门"
+  },
+  {
+    "en": "Asia/Macau",
+    "zh": "亚洲/澳门",
+    "continent": "亚洲",
+    "area": "澳门"
+  },
+  {
+    "en": "Asia/Magadan",
+    "zh": "亚洲/马加丹",
+    "continent": "亚洲",
+    "area": "马加丹"
+  },
+  {
+    "en": "Asia/Makassar",
+    "zh": "亚洲/望加锡",
+    "continent": "亚洲",
+    "area": "望加锡"
+  },
+  {
+    "en": "Asia/Manila",
+    "zh": "亚洲/马尼拉",
+    "continent": "亚洲",
+    "area": "马尼拉"
+  },
+  {
+    "en": "Asia/Muscat",
+    "zh": "亚洲/马斯喀特",
+    "continent": "亚洲",
+    "area": "马斯喀特"
+  },
+  {
+    "en": "Asia/Nicosia",
+    "zh": "亚洲/尼科西亚",
+    "continent": "亚洲",
+    "area": "尼科西亚"
+  },
+  {
+    "en": "Asia/Novokuznetsk",
+    "zh": "亚洲/新库兹涅茨克",
+    "continent": "亚洲",
+    "area": "新库兹涅茨克"
+  },
+  {
+    "en": "Asia/Novosibirsk",
+    "zh": "亚洲/新西伯利亚",
+    "continent": "亚洲",
+    "area": "新西伯利亚"
+  },
+  {
+    "en": "Asia/Omsk",
+    "zh": "亚洲/鄂木斯克",
+    "continent": "亚洲",
+    "area": "鄂木斯克"
+  },
+  {
+    "en": "Asia/Oral",
+    "zh": "亚洲/口腔",
+    "continent": "亚洲",
+    "area": "口腔"
+  },
+  {
+    "en": "Asia/Phnom_Penh",
+    "zh": "亚洲/Phnom_Penh",
+    "continent": "亚洲",
+    "area": "Phnom_Penh"
+  },
+  {
+    "en": "Asia/Pontianak",
+    "zh": "亚洲/蓬蒂亚纳克",
+    "continent": "亚洲",
+    "area": "蓬蒂亚纳克"
+  },
+  {
+    "en": "Asia/Pyongyang",
+    "zh": "亚洲/平壤",
+    "continent": "亚洲",
+    "area": "平壤"
+  },
+  {
+    "en": "Asia/Qatar",
+    "zh": "亚洲/卡塔尔",
+    "continent": "亚洲",
+    "area": "卡塔尔"
+  },
+  {
+    "en": "Asia/Qostanay",
+    "zh": "亚洲/Qostanay",
+    "continent": "亚洲",
+    "area": "Qostanay"
+  },
+  {
+    "en": "Asia/Qyzylorda",
+    "zh": "亚洲/Qyzylorda",
+    "continent": "亚洲",
+    "area": "Qyzylorda"
+  },
+  {
+    "en": "Asia/Rangoon",
+    "zh": "亚洲/仰光",
+    "continent": "亚洲",
+    "area": "仰光"
+  },
+  {
+    "en": "Asia/Riyadh",
+    "zh": "亚洲/利雅得",
+    "continent": "亚洲",
+    "area": "利雅得"
+  },
+  {
+    "en": "Asia/Saigon",
+    "zh": "亚洲/西贡",
+    "continent": "亚洲",
+    "area": "西贡"
+  },
+  {
+    "en": "Asia/Sakhalin",
+    "zh": "亚洲/萨哈林",
+    "continent": "亚洲",
+    "area": "萨哈林"
+  },
+  {
+    "en": "Asia/Samarkand",
+    "zh": "亚洲/撒马尔罕",
+    "continent": "亚洲",
+    "area": "撒马尔罕"
+  },
+  {
+    "en": "Asia/Seoul",
+    "zh": "亚洲/首尔",
+    "continent": "亚洲",
+    "area": "首尔"
+  },
+  {
+    "en": "Asia/Shanghai",
+    "zh": "亚洲/上海",
+    "continent": "亚洲",
+    "area": "上海"
+  },
+  {
+    "en": "Asia/Singapore",
+    "zh": "亚洲/新加坡",
+    "continent": "亚洲",
+    "area": "新加坡"
+  },
+  {
+    "en": "Asia/Srednekolymsk",
+    "zh": "亚洲/Srednekolymsk",
+    "continent": "亚洲",
+    "area": "Srednekolymsk"
+  },
+  {
+    "en": "Asia/Taipei",
+    "zh": "亚洲/台北",
+    "continent": "亚洲",
+    "area": "台北"
+  },
+  {
+    "en": "Asia/Tashkent",
+    "zh": "亚洲/塔什干",
+    "continent": "亚洲",
+    "area": "塔什干"
+  },
+  {
+    "en": "Asia/Tbilisi",
+    "zh": "亚洲/第比利斯",
+    "continent": "亚洲",
+    "area": "第比利斯"
+  },
+  {
+    "en": "Asia/Tehran",
+    "zh": "亚洲/德黑兰",
+    "continent": "亚洲",
+    "area": "德黑兰"
+  },
+  {
+    "en": "Asia/Tel_Aviv",
+    "zh": "亚洲/Tel_Aviv",
+    "continent": "亚洲",
+    "area": "Tel_Aviv"
+  },
+  {
+    "en": "Asia/Thimbu",
+    "zh": "亚洲/廷布",
+    "continent": "亚洲",
+    "area": "廷布"
+  },
+  {
+    "en": "Asia/Thimphu",
+    "zh": "亚洲/廷布",
+    "continent": "亚洲",
+    "area": "廷布"
+  },
+  {
+    "en": "Asia/Tokyo",
+    "zh": "亚洲/东京",
+    "continent": "亚洲",
+    "area": "东京"
+  },
+  {
+    "en": "Asia/Tomsk",
+    "zh": "亚洲/托木斯克",
+    "continent": "亚洲",
+    "area": "托木斯克"
+  },
+  {
+    "en": "Asia/Ujung_Pandang",
+    "zh": "亚洲/Ujung_班当",
+    "continent": "亚洲",
+    "area": "Ujung_班当"
+  },
+  {
+    "en": "Asia/Ulaanbaatar",
+    "zh": "亚洲/乌兰巴托",
+    "continent": "亚洲",
+    "area": "乌兰巴托"
+  },
+  {
+    "en": "Asia/Ulan_Bator",
+    "zh": "亚洲/乌兰巴托",
+    "continent": "亚洲",
+    "area": "乌兰巴托"
+  },
+  {
+    "en": "Asia/Urumqi",
+    "zh": "亚洲/乌鲁木齐",
+    "continent": "亚洲",
+    "area": "乌鲁木齐"
+  },
+  {
+    "en": "Asia/Ust-Nera",
+    "zh": "亚洲/Ust Nera",
+    "continent": "亚洲",
+    "area": "Ust Nera"
+  },
+  {
+    "en": "Asia/Vientiane",
+    "zh": "亚洲/万象",
+    "continent": "亚洲",
+    "area": "万象"
+  },
+  {
+    "en": "Asia/Vladivostok",
+    "zh": "亚洲/符拉迪沃斯托克",
+    "continent": "亚洲",
+    "area": "符拉迪沃斯托克"
+  },
+  {
+    "en": "Asia/Yakutsk",
+    "zh": "亚洲/雅库茨克",
+    "continent": "亚洲",
+    "area": "雅库茨克"
+  },
+  {
+    "en": "Asia/Yangon",
+    "zh": "亚洲/仰光",
+    "continent": "亚洲",
+    "area": "仰光"
+  },
+  {
+    "en": "Asia/Yekaterinburg",
+    "zh": "亚洲/叶卡捷琳堡",
+    "continent": "亚洲",
+    "area": "叶卡捷琳堡"
+  },
+  {
+    "en": "Asia/Yerevan",
+    "zh": "亚洲/埃里温",
+    "continent": "亚洲",
+    "area": "埃里温"
+  },
+  {
+    "en": "Atlantic/Azores",
+    "zh": "大西洋/亚速尔群岛",
+    "continent": "大西洋",
+    "area": "亚速尔群岛"
+  },
+  {
+    "en": "Atlantic/Bermuda",
+    "zh": "大西洋/百慕大",
+    "continent": "大西洋",
+    "area": "百慕大"
+  },
+  {
+    "en": "Atlantic/Canary",
+    "zh": "大西洋/加那利",
+    "continent": "大西洋",
+    "area": "加那利"
+  },
+  {
+    "en": "Atlantic/Cape_Verde",
+    "zh": "大西洋/佛得角",
+    "continent": "大西洋",
+    "area": "佛得角"
+  },
+  {
+    "en": "Atlantic/Faeroe",
+    "zh": "大西洋/法罗",
+    "continent": "大西洋",
+    "area": "法罗"
+  },
+  {
+    "en": "Atlantic/Faroe",
+    "zh": "大西洋/法罗群岛",
+    "continent": "大西洋",
+    "area": "法罗群岛"
+  },
+  {
+    "en": "Atlantic/Jan_Mayen",
+    "zh": "大西洋/一月",
+    "continent": "大西洋",
+    "area": "一月"
+  },
+  {
+    "en": "Atlantic/Madeira",
+    "zh": "大西洋/马德拉",
+    "continent": "大西洋",
+    "area": "马德拉"
+  },
+  {
+    "en": "Atlantic/Reykjavik",
+    "zh": "大西洋/雷克雅未克",
+    "continent": "大西洋",
+    "area": "雷克雅未克"
+  },
+  {
+    "en": "Atlantic/South_Georgia",
+    "zh": "大西洋/南方_Georgia",
+    "continent": "大西洋",
+    "area": "南方_Georgia"
+  },
+  {
+    "en": "Atlantic/St_Helena",
+    "zh": "大西洋/St_Helena",
+    "continent": "大西洋",
+    "area": "St_Helena"
+  },
+  {
+    "en": "Atlantic/Stanley",
+    "zh": "大西洋/斯坦利",
+    "continent": "大西洋",
+    "area": "斯坦利"
+  },
+  {
+    "en": "Australia/ACT",
+    "zh": "大洋洲/澳大利亚ACT",
+    "continent": "大洋洲",
+    "area": "澳大利亚ACT"
+  },
+  {
+    "en": "Australia/Adelaide",
+    "zh": "大洋洲/澳大利亚阿德莱德",
+    "continent": "大洋洲",
+    "area": "澳大利亚阿德莱德"
+  },
+  {
+    "en": "Australia/Brisbane",
+    "zh": "大洋洲/澳大利亚布里斯班",
+    "continent": "大洋洲",
+    "area": "澳大利亚布里斯班"
+  },
+  {
+    "en": "Australia/Broken_Hill",
+    "zh": "大洋洲/澳大利亚Broken_Hill",
+    "continent": "大洋洲",
+    "area": "澳大利亚Broken_Hill"
+  },
+  {
+    "en": "Australia/Canberra",
+    "zh": "大洋洲/澳大利亚堪培拉",
+    "continent": "大洋洲",
+    "area": "澳大利亚堪培拉"
+  },
+  {
+    "en": "Australia/Currie",
+    "zh": "大洋洲/澳大利亚咖喱",
+    "continent": "大洋洲",
+    "area": "澳大利亚咖喱"
+  },
+  {
+    "en": "Australia/Darwin",
+    "zh": "大洋洲/澳大利亚达尔文",
+    "continent": "大洋洲",
+    "area": "澳大利亚达尔文"
+  },
+  {
+    "en": "Australia/Eucla",
+    "zh": "大洋洲/澳大利亚欧几里得",
+    "continent": "大洋洲",
+    "area": "澳大利亚欧几里得"
+  },
+  {
+    "en": "Australia/Hobart",
+    "zh": "大洋洲/澳大利亚霍巴特",
+    "continent": "大洋洲",
+    "area": "澳大利亚霍巴特"
+  },
+  {
+    "en": "Australia/LHI",
+    "zh": "大洋洲/澳大利亚LHI",
+    "continent": "大洋洲",
+    "area": "澳大利亚LHI"
+  },
+  {
+    "en": "Australia/Lindeman",
+    "zh": "大洋洲/澳大利亚林德曼",
+    "continent": "大洋洲",
+    "area": "澳大利亚林德曼"
+  },
+  {
+    "en": "Australia/Lord_Howe",
+    "zh": "大洋洲/澳大利亚Lord_Howe",
+    "continent": "大洋洲",
+    "area": "澳大利亚Lord_Howe"
+  },
+  {
+    "en": "Australia/Melbourne",
+    "zh": "大洋洲/澳大利亚墨尔本",
+    "continent": "大洋洲",
+    "area": "澳大利亚墨尔本"
+  },
+  {
+    "en": "Australia/NSW",
+    "zh": "大洋洲/澳大利亚新南威尔士州",
+    "continent": "大洋洲",
+    "area": "澳大利亚新南威尔士州"
+  },
+  {
+    "en": "Australia/North",
+    "zh": "大洋洲/澳大利亚北部",
+    "continent": "大洋洲",
+    "area": "澳大利亚北部"
+  },
+  {
+    "en": "Australia/Perth",
+    "zh": "大洋洲/澳大利亚珀斯",
+    "continent": "大洋洲",
+    "area": "澳大利亚珀斯"
+  },
+  {
+    "en": "Australia/Queensland",
+    "zh": "大洋洲/澳大利亚昆士兰",
+    "continent": "大洋洲",
+    "area": "澳大利亚昆士兰"
+  },
+  {
+    "en": "Australia/South",
+    "zh": "大洋洲/澳大利亚南部",
+    "continent": "大洋洲",
+    "area": "澳大利亚南部"
+  },
+  {
+    "en": "Australia/Sydney",
+    "zh": "大洋洲/澳大利亚悉尼",
+    "continent": "大洋洲",
+    "area": "澳大利亚悉尼"
+  },
+  {
+    "en": "Australia/Tasmania",
+    "zh": "大洋洲/澳大利亚塔斯马尼亚",
+    "continent": "大洋洲",
+    "area": "澳大利亚塔斯马尼亚"
+  },
+  {
+    "en": "Australia/Victoria",
+    "zh": "大洋洲/澳大利亚维多利亚",
+    "continent": "大洋洲",
+    "area": "澳大利亚维多利亚"
+  },
+  {
+    "en": "Australia/West",
+    "zh": "大洋洲/澳大利亚西部",
+    "continent": "大洋洲",
+    "area": "澳大利亚西部"
+  },
+  {
+    "en": "Australia/Yancowinna",
+    "zh": "大洋洲/澳大利亚扬科维纳",
+    "continent": "大洋洲",
+    "area": "澳大利亚扬科维纳"
+  },
+  {
+    "en": "Brazil/Acre",
+    "zh": "美洲/巴西英亩",
+    "continent": "美洲",
+    "area": "巴西英亩"
+  },
+  {
+    "en": "Brazil/DeNoronha",
+    "zh": "美洲/巴西德诺罗尼亚",
+    "continent": "美洲",
+    "area": "巴西德诺罗尼亚"
+  },
+  {
+    "en": "Brazil/East",
+    "zh": "美洲/巴西东部",
+    "continent": "美洲",
+    "area": "巴西东部"
+  },
+  {
+    "en": "Brazil/West",
+    "zh": "美洲/巴西西部",
+    "continent": "美洲",
+    "area": "巴西西部"
+  },
+  {
+    "en": "CET",
+    "zh": "欧洲/欧洲中部时间",
+    "continent": "欧洲",
+    "area": "欧洲中部时间"
+  },
+  {
+    "en": "CST6CDT",
+    "zh": "美洲/西六区",
+    "continent": "美洲",
+    "area": "西六区"
+  },
+  {
+    "en": "Canada/Atlantic",
+    "zh": "美洲/加拿大大西洋",
+    "continent": "美洲",
+    "area": "加拿大大西洋"
+  },
+  {
+    "en": "Canada/Central",
+    "zh": "美洲/加拿大中部",
+    "continent": "美洲",
+    "area": "加拿大中部"
+  },
+  {
+    "en": "Canada/Eastern",
+    "zh": "美洲/加拿大东部",
+    "continent": "美洲",
+    "area": "加拿大东部"
+  },
+  {
+    "en": "Canada/Mountain",
+    "zh": "美洲/加拿大山地",
+    "continent": "美洲",
+    "area": "加拿大山地"
+  },
+  {
+    "en": "Canada/Newfoundland",
+    "zh": "美洲/加拿大纽芬兰",
+    "continent": "美洲",
+    "area": "加拿大纽芬兰"
+  },
+  {
+    "en": "Canada/Pacific",
+    "zh": "美洲/加拿大太平洋",
+    "continent": "美洲",
+    "area": "加拿大太平洋"
+  },
+  {
+    "en": "Canada/Saskatchewan",
+    "zh": "美洲/加拿大萨斯喀彻温省",
+    "continent": "美洲",
+    "area": "加拿大萨斯喀彻温省"
+  },
+  {
+    "en": "Canada/Yukon",
+    "zh": "美洲/加拿大育空地区",
+    "continent": "美洲",
+    "area": "加拿大育空地区"
+  },
+  {
+    "en": "Chile/Continental",
+    "zh": "美洲/智利大陆",
+    "continent": "美洲",
+    "area": "智利大陆"
+  },
+  {
+    "en": "Chile/EasterIsland",
+    "zh": "美洲/智利伊斯特岛",
+    "continent": "美洲",
+    "area": "智利伊斯特岛"
+  },
+  {
+    "en": "Cuba",
+    "zh": "美洲/古巴",
+    "continent": "美洲",
+    "area": "古巴"
+  },
+  {
+    "en": "EET",
+    "zh": "欧洲/欧洲东部时间",
+    "continent": "欧洲",
+    "area": "欧洲东部时间"
+  },
+  {
+    "en": "EST",
+    "zh": "美洲/美国东部时间",
+    "continent": "美洲",
+    "area": "美国东部时间"
+  },
+  {
+    "en": "EST5EDT",
+    "zh": "美洲/美国东部时间",
+    "continent": "美洲",
+    "area": "美国东部时间"
+  },
+  {
+    "en": "Egypt",
+    "zh": "非洲/埃及",
+    "continent": "非洲",
+    "area": "埃及"
+  },
+  {
+    "en": "Eire",
+    "zh": "欧洲/爱尔兰岛",
+    "continent": "欧洲",
+    "area": "爱尔兰岛"
+  },
+  {
+    "en": "Europe/Amsterdam",
+    "zh": "欧洲/阿姆斯特丹",
+    "continent": "欧洲",
+    "area": "阿姆斯特丹"
+  },
+  {
+    "en": "Europe/Andorra",
+    "zh": "欧洲/安道尔",
+    "continent": "欧洲",
+    "area": "安道尔"
+  },
+  {
+    "en": "Europe/Astrakhan",
+    "zh": "欧洲/阿斯特拉罕",
+    "continent": "欧洲",
+    "area": "阿斯特拉罕"
+  },
+  {
+    "en": "Europe/Athens",
+    "zh": "欧洲/雅典",
+    "continent": "欧洲",
+    "area": "雅典"
+  },
+  {
+    "en": "Europe/Belfast",
+    "zh": "欧洲/贝尔法斯特",
+    "continent": "欧洲",
+    "area": "贝尔法斯特"
+  },
+  {
+    "en": "Europe/Belgrade",
+    "zh": "欧洲/贝尔格莱德",
+    "continent": "欧洲",
+    "area": "贝尔格莱德"
+  },
+  {
+    "en": "Europe/Berlin",
+    "zh": "欧洲/柏林",
+    "continent": "欧洲",
+    "area": "柏林"
+  },
+  {
+    "en": "Europe/Bratislava",
+    "zh": "欧洲/布拉迪斯拉发",
+    "continent": "欧洲",
+    "area": "布拉迪斯拉发"
+  },
+  {
+    "en": "Europe/Brussels",
+    "zh": "欧洲/布鲁塞尔",
+    "continent": "欧洲",
+    "area": "布鲁塞尔"
+  },
+  {
+    "en": "Europe/Bucharest",
+    "zh": "欧洲/布加勒斯特",
+    "continent": "欧洲",
+    "area": "布加勒斯特"
+  },
+  {
+    "en": "Europe/Budapest",
+    "zh": "欧洲/布达佩斯",
+    "continent": "欧洲",
+    "area": "布达佩斯"
+  },
+  {
+    "en": "Europe/Busingen",
+    "zh": "欧洲/布辛根",
+    "continent": "欧洲",
+    "area": "布辛根"
+  },
+  {
+    "en": "Europe/Chisinau",
+    "zh": "欧洲/基希讷乌",
+    "continent": "欧洲",
+    "area": "基希讷乌"
+  },
+  {
+    "en": "Europe/Copenhagen",
+    "zh": "欧洲/哥本哈根",
+    "continent": "欧洲",
+    "area": "哥本哈根"
+  },
+  {
+    "en": "Europe/Dublin",
+    "zh": "欧洲/都柏林",
+    "continent": "欧洲",
+    "area": "都柏林"
+  },
+  {
+    "en": "Europe/Gibraltar",
+    "zh": "欧洲/直布罗陀",
+    "continent": "欧洲",
+    "area": "直布罗陀"
+  },
+  {
+    "en": "Europe/Guernsey",
+    "zh": "欧洲/根西岛",
+    "continent": "欧洲",
+    "area": "根西岛"
+  },
+  {
+    "en": "Europe/Helsinki",
+    "zh": "欧洲/赫尔辛基",
+    "continent": "欧洲",
+    "area": "赫尔辛基"
+  },
+  {
+    "en": "Europe/Isle_of_Man",
+    "zh": "欧洲/曼岛",
+    "continent": "欧洲",
+    "area": "曼岛"
+  },
+  {
+    "en": "Europe/Istanbul",
+    "zh": "欧洲/伊斯坦布尔",
+    "continent": "欧洲",
+    "area": "伊斯坦布尔"
+  },
+  {
+    "en": "Europe/Jersey",
+    "zh": "欧洲/泽西岛",
+    "continent": "欧洲",
+    "area": "泽西岛"
+  },
+  {
+    "en": "Europe/Kaliningrad",
+    "zh": "欧洲/加里宁格勒",
+    "continent": "欧洲",
+    "area": "加里宁格勒"
+  },
+  {
+    "en": "Europe/Kiev",
+    "zh": "欧洲/基辅",
+    "continent": "欧洲",
+    "area": "基辅"
+  },
+  {
+    "en": "Europe/Kirov",
+    "zh": "欧洲/基洛夫",
+    "continent": "欧洲",
+    "area": "基洛夫"
+  },
+  {
+    "en": "Europe/Kyiv",
+    "zh": "欧洲/基辅",
+    "continent": "欧洲",
+    "area": "基辅"
+  },
+  {
+    "en": "Europe/Lisbon",
+    "zh": "欧洲/里斯本",
+    "continent": "欧洲",
+    "area": "里斯本"
+  },
+  {
+    "en": "Europe/Ljubljana",
+    "zh": "欧洲/卢布尔雅那",
+    "continent": "欧洲",
+    "area": "卢布尔雅那"
+  },
+  {
+    "en": "Europe/London",
+    "zh": "欧洲/伦敦",
+    "continent": "欧洲",
+    "area": "伦敦"
+  },
+  {
+    "en": "Europe/Luxembourg",
+    "zh": "欧洲/卢森堡",
+    "continent": "欧洲",
+    "area": "卢森堡"
+  },
+  {
+    "en": "Europe/Madrid",
+    "zh": "欧洲/马德里",
+    "continent": "欧洲",
+    "area": "马德里"
+  },
+  {
+    "en": "Europe/Malta",
+    "zh": "欧洲/马耳他",
+    "continent": "欧洲",
+    "area": "马耳他"
+  },
+  {
+    "en": "Europe/Mariehamn",
+    "zh": "欧洲/马里哈姆",
+    "continent": "欧洲",
+    "area": "马里哈姆"
+  },
+  {
+    "en": "Europe/Minsk",
+    "zh": "欧洲/明斯克",
+    "continent": "欧洲",
+    "area": "明斯克"
+  },
+  {
+    "en": "Europe/Monaco",
+    "zh": "欧洲/摩纳哥",
+    "continent": "欧洲",
+    "area": "摩纳哥"
+  },
+  {
+    "en": "Europe/Moscow",
+    "zh": "欧洲/莫斯科",
+    "continent": "欧洲",
+    "area": "莫斯科"
+  },
+  {
+    "en": "Europe/Nicosia",
+    "zh": "欧洲/尼科西亚",
+    "continent": "欧洲",
+    "area": "尼科西亚"
+  },
+  {
+    "en": "Europe/Oslo",
+    "zh": "欧洲/奥斯陆",
+    "continent": "欧洲",
+    "area": "奥斯陆"
+  },
+  {
+    "en": "Europe/Paris",
+    "zh": "欧洲/巴黎",
+    "continent": "欧洲",
+    "area": "巴黎"
+  },
+  {
+    "en": "Europe/Podgorica",
+    "zh": "欧洲/波德戈里察",
+    "continent": "欧洲",
+    "area": "波德戈里察"
+  },
+  {
+    "en": "Europe/Prague",
+    "zh": "欧洲/布拉格",
+    "continent": "欧洲",
+    "area": "布拉格"
+  },
+  {
+    "en": "Europe/Riga",
+    "zh": "欧洲/里加",
+    "continent": "欧洲",
+    "area": "里加"
+  },
+  {
+    "en": "Europe/Rome",
+    "zh": "欧洲/罗马",
+    "continent": "欧洲",
+    "area": "罗马"
+  },
+  {
+    "en": "Europe/Samara",
+    "zh": "欧洲/萨马拉",
+    "continent": "欧洲",
+    "area": "萨马拉"
+  },
+  {
+    "en": "Europe/San_Marino",
+    "zh": "欧洲/San_Marino",
+    "continent": "欧洲",
+    "area": "San_Marino"
+  },
+  {
+    "en": "Europe/Sarajevo",
+    "zh": "欧洲/萨拉热窝",
+    "continent": "欧洲",
+    "area": "萨拉热窝"
+  },
+  {
+    "en": "Europe/Saratov",
+    "zh": "欧洲/萨拉托夫",
+    "continent": "欧洲",
+    "area": "萨拉托夫"
+  },
+  {
+    "en": "Europe/Simferopol",
+    "zh": "欧洲/辛菲罗波尔",
+    "continent": "欧洲",
+    "area": "辛菲罗波尔"
+  },
+  {
+    "en": "Europe/Skopje",
+    "zh": "欧洲/斯科普里",
+    "continent": "欧洲",
+    "area": "斯科普里"
+  },
+  {
+    "en": "Europe/Sofia",
+    "zh": "欧洲/索菲亚",
+    "continent": "欧洲",
+    "area": "索菲亚"
+  },
+  {
+    "en": "Europe/Stockholm",
+    "zh": "欧洲/斯德哥尔摩",
+    "continent": "欧洲",
+    "area": "斯德哥尔摩"
+  },
+  {
+    "en": "Europe/Tallinn",
+    "zh": "欧洲/塔林",
+    "continent": "欧洲",
+    "area": "塔林"
+  },
+  {
+    "en": "Europe/Tirane",
+    "zh": "欧洲/地拉那",
+    "continent": "欧洲",
+    "area": "地拉那"
+  },
+  {
+    "en": "Europe/Tiraspol",
+    "zh": "欧洲/蒂拉斯波尔",
+    "continent": "欧洲",
+    "area": "蒂拉斯波尔"
+  },
+  {
+    "en": "Europe/Ulyanovsk",
+    "zh": "欧洲/乌里扬诺夫斯克",
+    "continent": "欧洲",
+    "area": "乌里扬诺夫斯克"
+  },
+  {
+    "en": "Europe/Uzhgorod",
+    "zh": "欧洲/乌兹哥罗德",
+    "continent": "欧洲",
+    "area": "乌兹哥罗德"
+  },
+  {
+    "en": "Europe/Vaduz",
+    "zh": "欧洲/瓦杜兹",
+    "continent": "欧洲",
+    "area": "瓦杜兹"
+  },
+  {
+    "en": "Europe/Vatican",
+    "zh": "欧洲/梵蒂冈",
+    "continent": "欧洲",
+    "area": "梵蒂冈"
+  },
+  {
+    "en": "Europe/Vienna",
+    "zh": "欧洲/维也纳",
+    "continent": "欧洲",
+    "area": "维也纳"
+  },
+  {
+    "en": "Europe/Vilnius",
+    "zh": "欧洲/维尔纽斯",
+    "continent": "欧洲",
+    "area": "维尔纽斯"
+  },
+  {
+    "en": "Europe/Volgograd",
+    "zh": "欧洲/伏尔加格勒",
+    "continent": "欧洲",
+    "area": "伏尔加格勒"
+  },
+  {
+    "en": "Europe/Warsaw",
+    "zh": "欧洲/华沙",
+    "continent": "欧洲",
+    "area": "华沙"
+  },
+  {
+    "en": "Europe/Zagreb",
+    "zh": "欧洲/萨格勒布",
+    "continent": "欧洲",
+    "area": "萨格勒布"
+  },
+  {
+    "en": "Europe/Zaporozhye",
+    "zh": "欧洲/扎波罗热",
+    "continent": "欧洲",
+    "area": "扎波罗热"
+  },
+  {
+    "en": "Europe/Zurich",
+    "zh": "欧洲/苏黎世",
+    "continent": "欧洲",
+    "area": "苏黎世"
+  },
+  {
+    "en": "GB",
+    "zh": "欧洲/中时区",
+    "continent": "欧洲",
+    "area": "中时区"
+  },
+  {
+    "en": "GB-Eire",
+    "zh": "欧洲/中时区-爱尔兰岛",
+    "continent": "欧洲",
+    "area": "中时区-爱尔兰岛"
+  },
+  {
+    "en": "GMT",
+    "zh": "欧洲/格林尼治标准时间",
+    "continent": "欧洲",
+    "area": "格林尼治标准时间"
+  },
+  {
+    "en": "GMT+0",
+    "zh": "欧洲/GMT+0",
+    "continent": "欧洲",
+    "area": "GMT+0"
+  },
+  {
+    "en": "GMT-0",
+    "zh": "欧洲/GMT-0",
+    "continent": "欧洲",
+    "area": "GMT-0"
+  },
+  {
+    "en": "GMT0",
+    "zh": "欧洲/GMT0",
+    "continent": "欧洲",
+    "area": "GMT0"
+  },
+  {
+    "en": "Greenwich",
+    "zh": "欧洲/格林威治",
+    "continent": "欧洲",
+    "area": "格林威治"
+  },
+  {
+    "en": "HST",
+    "zh": "美洲/美国夏威夷",
+    "continent": "美洲",
+    "area": "美国夏威夷"
+  },
+  {
+    "en": "Hongkong",
+    "zh": "亚洲/香港",
+    "continent": "亚洲",
+    "area": "香港"
+  },
+  {
+    "en": "Iceland",
+    "zh": "欧洲/冰岛",
+    "continent": "欧洲",
+    "area": "冰岛"
+  },
+  {
+    "en": "Indian/Antananarivo",
+    "zh": "亚洲/印度人塔那那利佛",
+    "continent": "亚洲",
+    "area": "印度人塔那那利佛"
+  },
+  {
+    "en": "Indian/Chagos",
+    "zh": "亚洲/印度人查戈斯人",
+    "continent": "亚洲",
+    "area": "印度人查戈斯人"
+  },
+  {
+    "en": "Indian/Christmas",
+    "zh": "亚洲/印度人圣诞节",
+    "continent": "亚洲",
+    "area": "印度人圣诞节"
+  },
+  {
+    "en": "Indian/Cocos",
+    "zh": "亚洲/印度人可可人",
+    "continent": "亚洲",
+    "area": "印度人可可人"
+  },
+  {
+    "en": "Indian/Comoro",
+    "zh": "亚洲/印度人科摩罗人",
+    "continent": "亚洲",
+    "area": "印度人科摩罗人"
+  },
+  {
+    "en": "Indian/Kerguelen",
+    "zh": "亚洲/印度人Kerguelen",
+    "continent": "亚洲",
+    "area": "印度人Kerguelen"
+  },
+  {
+    "en": "Indian/Mahe",
+    "zh": "亚洲/印度人Mahe",
+    "continent": "亚洲",
+    "area": "印度人Mahe"
+  },
+  {
+    "en": "Indian/Maldives",
+    "zh": "亚洲/印度人马尔代夫",
+    "continent": "亚洲",
+    "area": "印度人马尔代夫"
+  },
+  {
+    "en": "Indian/Mauritius",
+    "zh": "亚洲/印度人毛里求斯",
+    "continent": "亚洲",
+    "area": "印度人毛里求斯"
+  },
+  {
+    "en": "Indian/Mayotte",
+    "zh": "美洲/印第安人马约特人",
+    "continent": "美洲",
+    "area": "印第安人马约特人"
+  },
+  {
+    "en": "Indian/Reunion",
+    "zh": "美洲/印第安人留尼汪人",
+    "continent": "美洲",
+    "area": "印第安人留尼汪人"
+  },
+  {
+    "en": "Iran",
+    "zh": "亚洲/伊朗",
+    "continent": "亚洲",
+    "area": "伊朗"
+  },
+  {
+    "en": "Israel",
+    "zh": "亚洲/以色列",
+    "continent": "亚洲",
+    "area": "以色列"
+  },
+  {
+    "en": "Jamaica",
+    "zh": "美洲/牙买加",
+    "continent": "美洲",
+    "area": "牙买加"
+  },
+  {
+    "en": "Japan",
+    "zh": "亚洲/日本",
+    "continent": "亚洲",
+    "area": "日本"
+  },
+  {
+    "en": "Kwajalein",
+    "zh": "太平洋/夸贾林环礁",
+    "continent": "太平洋",
+    "area": "夸贾林环礁"
+  },
+  {
+    "en": "Libya",
+    "zh": "非洲/利比亚",
+    "continent": "非洲",
+    "area": "利比亚"
+  },
+  {
+    "en": "MST",
+    "zh": "美洲/美国山地时间",
+    "continent": "美洲",
+    "area": "美国山地时间"
+  },
+  {
+    "en": "MST7MDT",
+    "zh": "亚洲/中国山区夏令时间",
+    "continent": "亚洲",
+    "area": "中国山区夏令时间"
+  },
+  {
+    "en": "Mexico/BajaNorte",
+    "zh": "美洲/墨西哥北巴哈",
+    "continent": "美洲",
+    "area": "墨西哥北巴哈"
+  },
+  {
+    "en": "Mexico/BajaSur",
+    "zh": "美洲/墨西哥BajaSur",
+    "continent": "美洲",
+    "area": "墨西哥BajaSur"
+  },
+  {
+    "en": "Mexico/General",
+    "zh": "美洲/墨西哥概述",
+    "continent": "美洲",
+    "area": "墨西哥概述"
+  },
+  {
+    "en": "NZ",
+    "zh": "大洋洲/新西兰",
+    "continent": "大洋洲",
+    "area": "新西兰"
+  },
+  {
+    "en": "NZ-CHAT",
+    "zh": "大洋洲/新西兰",
+    "continent": "大洋洲",
+    "area": "新西兰"
+  },
+  {
+    "en": "Navajo",
+    "zh": "美洲/美国本土的时间",
+    "continent": "美洲",
+    "area": "美国本土的时间"
+  },
+  {
+    "en": "PRC",
+    "zh": "亚洲/中华人民共和国",
+    "continent": "亚洲",
+    "area": "中华人民共和国"
+  },
+  {
+    "en": "PST8PDT",
+    "zh": "美洲/洛杉矶时间",
+    "continent": "美洲",
+    "area": "洛杉矶时间"
+  },
+  {
+    "en": "Pacific/Apia",
+    "zh": "太平洋/阿皮亚",
+    "continent": "太平洋",
+    "area": "阿皮亚"
+  },
+  {
+    "en": "Pacific/Auckland",
+    "zh": "太平洋/奥克兰",
+    "continent": "太平洋",
+    "area": "奥克兰"
+  },
+  {
+    "en": "Pacific/Bougainville",
+    "zh": "太平洋/布干维尔",
+    "continent": "太平洋",
+    "area": "布干维尔"
+  },
+  {
+    "en": "Pacific/Chatham",
+    "zh": "太平洋/查塔姆",
+    "continent": "太平洋",
+    "area": "查塔姆"
+  },
+  {
+    "en": "Pacific/Chuuk",
+    "zh": "太平洋/丘克",
+    "continent": "太平洋",
+    "area": "丘克"
+  },
+  {
+    "en": "Pacific/Easter",
+    "zh": "太平洋/复活节",
+    "continent": "太平洋",
+    "area": "复活节"
+  },
+  {
+    "en": "Pacific/Efate",
+    "zh": "太平洋/Efate",
+    "continent": "太平洋",
+    "area": "Efate"
+  },
+  {
+    "en": "Pacific/Enderbury",
+    "zh": "太平洋/恩德伯里",
+    "continent": "太平洋",
+    "area": "恩德伯里"
+  },
+  {
+    "en": "Pacific/Fakaofo",
+    "zh": "太平洋/Fakaofo",
+    "continent": "太平洋",
+    "area": "Fakaofo"
+  },
+  {
+    "en": "Pacific/Fiji",
+    "zh": "太平洋/斐济",
+    "continent": "太平洋",
+    "area": "斐济"
+  },
+  {
+    "en": "Pacific/Funafuti",
+    "zh": "太平洋/富纳富提",
+    "continent": "太平洋",
+    "area": "富纳富提"
+  },
+  {
+    "en": "Pacific/Galapagos",
+    "zh": "太平洋/加拉帕戈斯",
+    "continent": "太平洋",
+    "area": "加拉帕戈斯"
+  },
+  {
+    "en": "Pacific/Gambier",
+    "zh": "太平洋/甘比尔",
+    "continent": "太平洋",
+    "area": "甘比尔"
+  },
+  {
+    "en": "Pacific/Guadalcanal",
+    "zh": "太平洋/瓜达尔卡纳尔岛",
+    "continent": "太平洋",
+    "area": "瓜达尔卡纳尔岛"
+  },
+  {
+    "en": "Pacific/Guam",
+    "zh": "太平洋/关岛",
+    "continent": "太平洋",
+    "area": "关岛"
+  },
+  {
+    "en": "Pacific/Honolulu",
+    "zh": "太平洋/檀香山",
+    "continent": "太平洋",
+    "area": "檀香山"
+  },
+  {
+    "en": "Pacific/Johnston",
+    "zh": "太平洋/约翰斯顿",
+    "continent": "太平洋",
+    "area": "约翰斯顿"
+  },
+  {
+    "en": "Pacific/Kanton",
+    "zh": "太平洋/坎顿",
+    "continent": "太平洋",
+    "area": "坎顿"
+  },
+  {
+    "en": "Pacific/Kiritimati",
+    "zh": "太平洋/基里蒂马蒂",
+    "continent": "太平洋",
+    "area": "基里蒂马蒂"
+  },
+  {
+    "en": "Pacific/Kosrae",
+    "zh": "太平洋/科斯雷",
+    "continent": "太平洋",
+    "area": "科斯雷"
+  },
+  {
+    "en": "Pacific/Kwajalein",
+    "zh": "太平洋/夸贾林",
+    "continent": "太平洋",
+    "area": "夸贾林"
+  },
+  {
+    "en": "Pacific/Majuro",
+    "zh": "太平洋/马朱罗",
+    "continent": "太平洋",
+    "area": "马朱罗"
+  },
+  {
+    "en": "Pacific/Marquesas",
+    "zh": "太平洋/马克萨斯",
+    "continent": "太平洋",
+    "area": "马克萨斯"
+  },
+  {
+    "en": "Pacific/Midway",
+    "zh": "太平洋/中途岛",
+    "continent": "太平洋",
+    "area": "中途岛"
+  },
+  {
+    "en": "Pacific/Nauru",
+    "zh": "太平洋/瑙鲁",
+    "continent": "太平洋",
+    "area": "瑙鲁"
+  },
+  {
+    "en": "Pacific/Niue",
+    "zh": "太平洋/纽埃",
+    "continent": "太平洋",
+    "area": "纽埃"
+  },
+  {
+    "en": "Pacific/Norfolk",
+    "zh": "太平洋/诺福克",
+    "continent": "太平洋",
+    "area": "诺福克"
+  },
+  {
+    "en": "Pacific/Noumea",
+    "zh": "太平洋/努美阿",
+    "continent": "太平洋",
+    "area": "努美阿"
+  },
+  {
+    "en": "Pacific/Pago_Pago",
+    "zh": "太平洋/Pago_Pago",
+    "continent": "太平洋",
+    "area": "Pago_Pago"
+  },
+  {
+    "en": "Pacific/Palau",
+    "zh": "太平洋/帕劳",
+    "continent": "太平洋",
+    "area": "帕劳"
+  },
+  {
+    "en": "Pacific/Pitcairn",
+    "zh": "太平洋/皮特凯恩",
+    "continent": "太平洋",
+    "area": "皮特凯恩"
+  },
+  {
+    "en": "Pacific/Pohnpei",
+    "zh": "太平洋/波恩佩",
+    "continent": "太平洋",
+    "area": "波恩佩"
+  },
+  {
+    "en": "Pacific/Ponape",
+    "zh": "太平洋/波纳佩",
+    "continent": "太平洋",
+    "area": "波纳佩"
+  },
+  {
+    "en": "Pacific/Port_Moresby",
+    "zh": "太平洋/Port_Moresby",
+    "continent": "太平洋",
+    "area": "Port_Moresby"
+  },
+  {
+    "en": "Pacific/Rarotonga",
+    "zh": "太平洋/拉罗汤加",
+    "continent": "太平洋",
+    "area": "拉罗汤加"
+  },
+  {
+    "en": "Pacific/Saipan",
+    "zh": "太平洋/塞班岛",
+    "continent": "太平洋",
+    "area": "塞班岛"
+  },
+  {
+    "en": "Pacific/Samoa",
+    "zh": "太平洋/萨摩亚",
+    "continent": "太平洋",
+    "area": "萨摩亚"
+  },
+  {
+    "en": "Pacific/Tahiti",
+    "zh": "太平洋/大溪地",
+    "continent": "太平洋",
+    "area": "大溪地"
+  },
+  {
+    "en": "Pacific/Tarawa",
+    "zh": "太平洋/塔拉瓦",
+    "continent": "太平洋",
+    "area": "塔拉瓦"
+  },
+  {
+    "en": "Pacific/Tongatapu",
+    "zh": "太平洋/汤加塔普",
+    "continent": "太平洋",
+    "area": "汤加塔普"
+  },
+  {
+    "en": "Pacific/Truk",
+    "zh": "太平洋/特鲁克",
+    "continent": "太平洋",
+    "area": "特鲁克"
+  },
+  {
+    "en": "Pacific/Wake",
+    "zh": "太平洋/威克",
+    "continent": "太平洋",
+    "area": "威克"
+  },
+  {
+    "en": "Pacific/Wallis",
+    "zh": "太平洋/瓦利斯",
+    "continent": "太平洋",
+    "area": "瓦利斯"
+  },
+  {
+    "en": "Pacific/Yap",
+    "zh": "太平洋/Yap",
+    "continent": "太平洋",
+    "area": "Yap"
+  },
+  {
+    "en": "Poland",
+    "zh": "欧洲/波兰",
+    "continent": "欧洲",
+    "area": "波兰"
+  },
+  {
+    "en": "Portugal",
+    "zh": "欧洲/葡萄牙",
+    "continent": "欧洲",
+    "area": "葡萄牙"
+  },
+  {
+    "en": "Singapore",
+    "zh": "亚洲/新加坡",
+    "continent": "亚洲",
+    "area": "新加坡"
+  },
+  {
+    "en": "Turkey",
+    "zh": "亚洲/土耳其",
+    "continent": "亚洲",
+    "area": "土耳其"
+  },
+  {
+    "en": "US/Alaska",
+    "zh": "美洲/美国阿拉斯加",
+    "continent": "美洲",
+    "area": "美国阿拉斯加"
+  },
+  {
+    "en": "US/Aleutian",
+    "zh": "美洲/美国阿留申",
+    "continent": "美洲",
+    "area": "美国阿留申"
+  },
+  {
+    "en": "US/Arizona",
+    "zh": "美洲/美国亚利桑那州",
+    "continent": "美洲",
+    "area": "美国亚利桑那州"
+  },
+  {
+    "en": "US/Central",
+    "zh": "美洲/美国中部",
+    "continent": "美洲",
+    "area": "美国中部"
+  },
+  {
+    "en": "US/East-Indiana",
+    "zh": "美洲/美国印第安纳州东部",
+    "continent": "美洲",
+    "area": "美国印第安纳州东部"
+  },
+  {
+    "en": "US/Eastern",
+    "zh": "美洲/美国东部",
+    "continent": "美洲",
+    "area": "美国东部"
+  },
+  {
+    "en": "US/Hawaii",
+    "zh": "美洲/美国夏威夷",
+    "continent": "美洲",
+    "area": "美国夏威夷"
+  },
+  {
+    "en": "US/Indiana-Starke",
+    "zh": "美洲/美国印第安纳州斯塔克",
+    "continent": "美洲",
+    "area": "美国印第安纳州斯塔克"
+  },
+  {
+    "en": "US/Michigan",
+    "zh": "美洲/美国密歇根州",
+    "continent": "美洲",
+    "area": "美国密歇根州"
+  },
+  {
+    "en": "US/Mountain",
+    "zh": "美洲/美国山地",
+    "continent": "美洲",
+    "area": "美国山地"
+  },
+  {
+    "en": "US/Pacific",
+    "zh": "美洲/美国太平洋",
+    "continent": "美洲",
+    "area": "美国太平洋"
+  },
+  {
+    "en": "US/Samoa",
+    "zh": "美洲/美国萨摩亚",
+    "continent": "美洲",
+    "area": "美国萨摩亚"
+  },
+  {
+    "en": "WET",
+    "zh": "欧洲/西欧标准时间",
+    "continent": "欧洲",
+    "area": "西欧标准时间"
+  },
+  {
+    "en": "Zulu",
+    "zh": "非洲/祖鲁",
+    "continent": "非洲",
+    "area": "祖鲁"
+  }
+]

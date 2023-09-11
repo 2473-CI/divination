@@ -19,7 +19,7 @@
 **3. node.js**
 
 ```shell
-npm install --save vivace-tool
+npm install --save divination
 ```
 
 使用方式：

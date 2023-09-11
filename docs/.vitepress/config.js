@@ -38,10 +38,10 @@ module.exports = {
     sidebar: {
       '/': [
         {
-          text: '测试',
+          text: '时间',
           collapsible: true,
           items: [
-            { text: "say", link: '/utils/say' },
+            { text: "真太阳时", link: '/utils/TrueSolarTime' },
            ]
         },
 

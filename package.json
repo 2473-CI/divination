@@ -1,7 +1,7 @@
 {
-  "name": "divination",
+  "name": "divination-liuren",
   "version": "1.1.0",
-  "description": "npm包规范示例",
+  "description": "divination 发包测试",
   "main": "dist/divination.umd.min.js",
   "module": "dist/divination.esm.js",
   "unpkg": "dist/divination.js",
@@ -89,6 +89,8 @@
     "rollup-plugin-terser": "^7.0.2"
   },
   "dependencies": {
+    "luxon": "^3.4.3",
+    "moment-timezone": "^0.5.43",
     "rollup": "^2.79.1",
     "vitepress": "^1.0.0-alpha.17"
   }
