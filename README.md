@@ -11,6 +11,7 @@
 ## 仓库 | 文档
 - 仓库地址：https://github.com/RuStealsMelons/divination
 - 文档地址：https://divination-umber.vercel.app/
+- npm地址：https://www.npmjs.com/package/divination-liuren
 ## 安装
 
 **1. 浏览器环境**
@@ -51,4 +52,8 @@ const {localTimeZone} = TrueSolarTime
 console.log(localTimeZone)
 ```
 
+## 联系方式
 
+电子邮件：Ruy5@qq.com
+
+QQ: 2970435887@qq.com

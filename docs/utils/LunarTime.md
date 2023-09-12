@@ -39,7 +39,7 @@ console.log(lunarTime.hour) // 时辰
 > { gan: '戊', zhi: '申', ganZhi: '戊申' }
 
 
-## 获取将
+## 获取月将
 ```js
 console.log(lunarTime.monthGeneral) // 月将
 ```
